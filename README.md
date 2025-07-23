@@ -6,7 +6,6 @@ Para iniciar a execução do banco de dados:
 
 ### Dados para conexão
 
-Banco de dados: curso_docker  
 Usuário: mongo_usr  
 Senha: mongo_pwd
 
